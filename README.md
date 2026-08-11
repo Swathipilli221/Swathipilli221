@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Swathipilli221
-- 👀 I’m interested in ...talking
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...software
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Swathi Pilli 👋
 
-<!---
-Swathipilli221/Swathipilli221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### AI & Data Science Student | Python | Machine Learning | AI & LLMs
+
+🎓 B.Tech student specializing in Artificial Intelligence & Data Science
+
+💻 Interested in Python, Machine Learning, AI, LLMs and Web Development
+
+🌱 Currently learning AI/ML, LLMs and Full-Stack Development
+
+🚀 Building real-world projects to improve my technical skills
+
+🤝 Open to internships, collaborations and learning opportunities
+
+📫 Let's connect and build something useful!
